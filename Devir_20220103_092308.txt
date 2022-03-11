@@ -1,0 +1,191 @@
+Aktarým Raporu:
+NEWASIPA aktarýldý
+NEWMBFRM aktarýldý
+NEWPTMUS aktarýldý
+NEWPDI aktarýldý
+NEWIPAK aktarýldý
+NEWKAMP aktarýldý
+NEWRAND aktarýldý
+NEWSTOK aktarýldý
+NEWTEKLF aktarýldý
+NEWTEKLIF aktarýldý
+FIRKIM aktarýldý
+KOORAFAT aktarýldý
+KOORBYN aktarýldý
+KOORBYN2 aktarýldý
+KOORFAT aktarýldý
+KOORIE aktarýldý
+KORPARF aktarýldý
+PARAFAT aktarýldý
+PARAMETRE aktarýldý
+PARAMET aktarýldý
+PARAMSER aktarýldý
+PARAMUH aktarýldý
+MUHBAG aktarýldý
+KOORIRS bulunamadý
+NEWSTR aktarýldý
+NEWSRR aktarýldý
+AKSESUAR aktarýldý
+AMBALAJ aktarýldý
+ANKET aktarýldý
+ANKETSORU aktarýldý
+ARAMAPER aktarýldý
+ARAC aktarýldý
+ARACRAKIP aktarýldý
+ARCAKS aktarýldý
+BANKA aktarýldý
+BANKAYR aktarýldý
+BAYILER aktarýldý
+BEYAN aktarýldý
+CARI aktarýldý
+CARIGRP aktarýldý
+CARIPER aktarýldý
+CEVAPLAR aktarýldý
+CEVAPSEC aktarýldý
+CLGARTIP aktarýldý
+CLKODTIP aktarýldý
+FRT aktarýldý
+GRUP aktarýldý
+HASARKOD aktarýldý
+HAZIRACK aktarýldý
+HAZIRMETIN aktarýldý
+IL aktarýldý
+IPAKET aktarýldý
+IPAKFRT aktarýldý
+IPARCAYR aktarýldý
+ISCIUSTA aktarýldý
+KAMPDOC aktarýldý
+KAMPANYA aktarýldý
+KAMPIE aktarýldý
+KAMPIEAY aktarýldý
+KASA aktarýldý
+KDV aktarýldý
+MARKAMODEL aktarýldý
+MODEL aktarýldý
+MODELKOD aktarýldý
+MODELRNK aktarýldý
+MODELAKS aktarýldý
+MODELOZ aktarýldý
+MESLEK aktarýldý
+MBILGFRM aktarýldý
+MSAYFA aktarýldý
+ODEPLAN aktarýldý
+NOTMER aktarýldý
+NOTSER aktarýldý
+OZELLIK aktarýldý
+PDIMAST aktarýldý
+PDIDET aktarýldý
+PDIHATAD aktarýldý
+PDIHYER aktarýldý
+PEREGIT aktarýldý
+PERIYOT aktarýldý
+PMHAVUZ aktarýldý
+PMHAVUZT aktarýldý
+POTANMUS aktarýldý
+POTANARA aktarýldý
+RANMAST aktarýldý
+RANDET aktarýldý
+RAPPER bulunamadý
+rb_field aktarýldý
+rb_folder aktarýldý
+rb_item aktarýldý
+rb_rights bulunamadý
+rb_table aktarýldý
+RENK aktarýldý
+SASEESKI bulunamadý
+SAYFA aktarýldý
+SERNOT aktarýldý
+SERRAP aktarýldý
+SERRAP2 aktarýldý
+SIPODE aktarýldý
+SIPODEA bulunamadý
+SORULAR aktarýldý
+SIPMTRX aktarýldý
+STOKRESM aktarýldý
+TARIZPAR aktarýldý
+TAVERGI aktarýldý
+TEKLIFM aktarýldý
+TEKLIFD aktarýldý
+TEKLIF aktarýldý
+TEKPARCA aktarýldý
+TEKISCI aktarýldý
+TERCIHLR:The statement has been terminated.
+Cannot insert duplicate key row in object 'dbo.TERCIHLR' with unique index 'TERCIHLR0'.
+0 adet TERCIHLR kayýt aktarýldý
+26 adet TERCIHLR kayýt aktaramadý
+TESTSRS aktarýldý
+UKRD bulunamadý
+UKRM bulunamadý
+YPBLOKAJ bulunamadý
+ASATKK aktarýldý
+ASATKKM aktarýldý
+AKOD bulunamadý
+BKOD bulunamadý
+GGHESAP aktarýldý
+MUH2GG aktarýldý
+CARISEVK bulunamadý
+SRTELRAP aktarýldý
+SRTELCEVAP aktarýldý
+STTELRAP aktarýldý
+STTELCEVAP aktarýldý
+CIHAZAPARAT bulunamadý
+ALTGRUP aktarýldý
+ARCSAKS aktarýldý
+FRTFYT aktarýldý
+CLHATTIP aktarýldý
+RIGHTS aktarýldý
+USERK aktarýldý
+BIRIM aktarýldý
+FNSTNM aktarýldý
+FNSTNMAYR aktarýldý
+ILCE aktarýldý
+SEHIR aktarýldý
+ARCVRSIP aktarýldý
+POQ aktarýldý
+POQB bulunamadý
+POQC bulunamadý
+POQLOCK aktarýldý
+SEKTOR bulunamadý
+ARCSAKS aktarýldý
+MUHKDV aktarýldý
+MUHKDVAYR aktarýldý
+SIPTIP aktarýldý
+PARAMLIST aktarýldý
+RESIMLER aktarýldý
+KURDEGER aktarýldý
+DOVIZ aktarýldý
+MARKALAR aktarýldý
+DEPO aktarýldý
+FYTENDA aktarýldý
+1108.Kayýttan 1109.Cari Hareket Aktarýldý.-1 Cari Bakiyesiz.
+0 Adet Çek Senet Devir Olarak Aktarýldý. 
+1026 Adet Hesap Planý Aktarýldý.
+EKIM Dosyasýndan 1 Adet Kayýt Aktarýldý.
+PARAMETRE Dosyasýndan 1 Adet Kayýt Aktarýldý.
+GELGIDA Dosyasýndan 67 Adet Kayýt Aktarýldý.
+Kasa Hrk.lerine 1 Adet Kayýt Aktarýldý
+STOK aktarýldý
+STOKMIK aktarýldý
+STOKPKT aktarýldý
+PARACTIP aktarýldý
+ISEMRI aktarýldý
+ISEAYRIN aktarýldý
+ISCILIK aktarýldý
+EXPER aktarýldý
+EXPERPAR aktarýldý
+EXPERISC aktarýldý
+PARAMSER aktarýldý
+CLAIMM aktarýldý
+CLAIMD aktarýldý
+CLAIMDI aktarýldý
+CLAIMDP aktarýldý
+CLAIMRET aktarýldý
+Açýk iþ emirleri hareketleri oluþturuldu.
+1 Adet Stok Hrk.ti Devir Fiþine Yazýldý. 
+Stok Hareket Geçmiþi aktarýldý
+1 Adet Sipariþ Devri Aktarýldý. 
+0 Adet Al.Sipariþ Devri Aktarýldý. 
+ARCPRTFY aktarýldý
+0 adet ARCALSIP kayýt aktarýldý
+0 adet ARCALSIP kayýt aktaramadý
+Devir Ýþlemi Tamamlandý.
